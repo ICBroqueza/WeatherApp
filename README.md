@@ -7,6 +7,12 @@ Weather App is a simple and intuitive application that provides weather informat
 ![image](https://github.com/ICBroqueza/WeatherApp/assets/87902211/24b3ec51-c887-47ca-ad06-50f00c788918)
 ![image](https://github.com/ICBroqueza/WeatherApp/assets/87902211/8274cb86-91ac-47fb-b008-e55dc2bd99eb)
 ![image](https://github.com/ICBroqueza/WeatherApp/assets/87902211/7659cfb7-b741-4ef0-8b59-7041a930336a)
+![image](https://github.com/ICBroqueza/WeatherApp/assets/87902211/fda74ecb-12d8-4b01-ad26-b5b90cb8607e)
+![image](https://github.com/ICBroqueza/WeatherApp/assets/87902211/abb3db69-067b-4699-9736-87f6387168f1)
+
+
+
+
 
 
 # Features
