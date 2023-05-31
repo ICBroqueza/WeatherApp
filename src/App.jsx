@@ -48,7 +48,7 @@ function App() {
 
   return (
     <>
-      <div className='flex flex-col mx-auto mt-40 md:mt-44 max-w-[900px]'>
+      <div className='flex flex-col mx-auto mt-10 md:mt-20 max-w-[900px]'>
         <div className={`${isDay ? 'bg-white outline' : 'bg-[#161618] text-white'} flex justify-between items-center  p-2 rounded-xl shadow-sm mx-5 mt-5 `}>
           <InputLocation inputLocation={inputLocation} isDay={isDay}/>
         </div>
