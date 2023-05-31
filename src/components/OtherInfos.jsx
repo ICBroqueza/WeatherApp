@@ -1,6 +1,7 @@
 import React from 'react';
 
 const OtherInfos = ({apiData, forecast, isDay}) => {
+  console.log(forecast)
 
   const shortDays = ['Sun', 'Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat'];
 
@@ -54,6 +55,40 @@ const OtherInfos = ({apiData, forecast, isDay}) => {
                     </div>
                   </div>
                 ))}
+                                <div className=' flex flex-col'>
+                    <h4 className=' text-center'>
+                      Sat
+                    </h4>
+                    <img
+                      src=
+                      "//cdn.weatherapi.com/weather/64x64/day/302.png"
+                      alt='...'
+                      className='border-t-2 object-cover mt-2 pt-2 mb-3'
+                    />
+                    <div className='flex flex-col items-center'>
+                      <h2 className='text-3xl relative'>
+                        30
+                        <span className='text-xl absolute'>°</span>
+                      </h2>
+                    </div>
+                  </div>
+                                <div className=' flex flex-col'>
+                    <h4 className=' text-center'>
+                      Sun
+                    </h4>
+                    <img
+                      src=
+                      "//cdn.weatherapi.com/weather/64x64/day/302.png"
+                      alt='...'
+                      className='border-t-2 object-cover mt-2 pt-2 mb-3'
+                    />
+                    <div className='flex flex-col items-center'>
+                      <h2 className='text-3xl relative'>
+                        30
+                        <span className='text-xl absolute'>°</span>
+                      </h2>
+                    </div>
+                  </div>
               </div>
             </div>
           </div> 
