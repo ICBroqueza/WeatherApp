@@ -20,7 +20,7 @@ Weather App is a simple and intuitive application that provides weather informat
 * Current Weather: View the current temperature, weather condition, humidity, and air status.
 * Forecast: Get a 5-day weather forecast for the selected city.
 * Error Handling: Prompts an error message if location is invalid.
-* Theme: Changes theme wheter if it is day or not.
+* Theme: Changes color wheter if it is day or not.
 
 # Installation
 * Clone the repository:
@@ -35,10 +35,10 @@ Weather App is a simple and intuitive application that provides weather informat
 * Obtain an API key from https://www.weatherapi.com/.
 
 * Start the development server:
-`npm start`
+`npm run dev`
 
 # Technologies Used 
-* React: JavaScript library for building user interfaces.
+* Vitejs: a build tool that aims to provide a faster and leaner development experience for modern web projects.
 * Tailwind CSS: A utility-first CSS framework.
 * Weatherapi.com API: Provides weather data and forecasts.
 
